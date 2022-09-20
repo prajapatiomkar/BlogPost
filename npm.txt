@@ -1,0 +1,6 @@
+npm i express
+npm i dotenv
+npm i nodemon
+npm i mongoose
+npm i body-parser
+npm install --save express-validator
