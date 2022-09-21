@@ -4,3 +4,5 @@ npm i nodemon
 npm i mongoose
 npm i body-parser
 npm install --save express-validator
+npm i bcrypt
+npm i jsonwebtoken

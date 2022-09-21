@@ -1,4 +1,5 @@
 require("dotenv").config()
+const { json } = require("body-parser");
 const mongoose = require("mongoose")
 
 module.exports = connect = async () => {
