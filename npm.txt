@@ -10,3 +10,6 @@ npm i concurrently - To run both front-end and back-end part with same terminal
 npm i react-router-dom 
 npm i node-sass - node convert Sass to pure css
 npm i react-helmet This reusable React component will manage all of your changes to the document head.
+npm i redux 
+npm i react-redux
+npm i redux-thunk to handle async action 
