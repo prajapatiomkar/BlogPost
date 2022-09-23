@@ -1,0 +1,13 @@
+// _reset.scss meaning recent file 
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+html{
+    font-size: 10px; //converting default rem size 16px to 10
+}
+body{
+   font-family: 'Poppins', sans-serif;
+
+}
