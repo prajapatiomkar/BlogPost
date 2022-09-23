@@ -1,4 +1,11 @@
+import {Helmet} from "react-helmet"
 const Home = ()=>{
-    return <h1>Home</h1>
+    return(
+        <>
+            <Helmet>
+                <title>BlogPost</title>
+            </Helmet>
+        </>
+    );
 }
 export default Home;
